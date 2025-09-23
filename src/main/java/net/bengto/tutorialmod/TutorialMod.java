@@ -29,7 +29,7 @@ public class TutorialMod {
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
-        ModBlocks.register(modEventBus);
+         ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
