@@ -3,6 +3,7 @@ package net.bengto.tutorialmod;
 import com.mojang.logging.LogUtils;
 import net.bengto.tutorialmod.item.ModCreativeModTabs;
 import net.bengto.tutorialmod.item.ModItems;
+import net.bengto.tutorialmod.blocks.ModBlocks;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;

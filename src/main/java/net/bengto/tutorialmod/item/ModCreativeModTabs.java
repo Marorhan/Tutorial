@@ -1,6 +1,6 @@
 package net.bengto.tutorialmod.item;
 
-import net.bengto.tutorialmod.ModBlocks;
+import net.bengto.tutorialmod.blocks.ModBlocks;
 import net.bengto.tutorialmod.TutorialMod;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
